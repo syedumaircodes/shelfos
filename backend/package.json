@@ -1,0 +1,13 @@
+{
+  "name": "shelfos-backend",
+  "version": "1.0.0",
+  "description": "Backend system for a library management system",
+  "license": "MIT",
+  "author": "Syed Umair Ali",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
